@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Heri and I'm a ..., from Peru</h2>
+<h2 align="left">Hi 👋! My name is Heri and I'm a web developer, from Peru</h2>
 
 ###
 
